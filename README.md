@@ -2,7 +2,7 @@
 
 Hackintosh Lifeboat is a lightweight TUI (Text User Interface) utility for macOS designed to create bit-perfect, compressed recovery images.
 
-![Hackintosh Lifeboat Demo](hackintosh-lifeboat.gif)
+![Hackintosh Lifeboat Demo](assets/hackintosh-lifeboat.gif)
 
 ## Features
 
