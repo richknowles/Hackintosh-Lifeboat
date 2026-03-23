@@ -15,7 +15,7 @@ Hackintosh Lifeboat is a lightweight TUI (Text User Interface) utility for macOS
 **Clone the repo**:
 
 ```bash
-git clone https://github.com/your-repo/Hackintosh-Lifeboat
+git clone https://github.com/richknowles/Hackintosh-Lifeboat
 cd Hackintosh-Lifeboat
 ```
 
